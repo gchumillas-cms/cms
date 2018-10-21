@@ -6,7 +6,7 @@ La aplicación fue desarrollada principalmente en **PHP, MySQL y jQuery** y disp
 
 ## Secciones, subsecciones y tablas
 
-El contenido del sitio web se distribuye en secciones, subsecciones y tablas. Cada una de las secciones o subsecciones pueden contener una o más tablas, desde las cuales podemos insertar, editar, borrar, filtrar y ordenar registros.
+El contenido del sitio web se distribuye en secciones, subsecciones y tablas. Cada una de las secciones o subsecciones puede contener una o más tablas, desde las que podemos insertar, editar, borrar, filtrar y ordenar registros.
 
 ![screenshot1](https://user-images.githubusercontent.com/5312427/47272291-028d1580-d584-11e8-8842-131791c0d420.png)
 
