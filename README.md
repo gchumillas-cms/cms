@@ -12,10 +12,14 @@ El contenido del sitio web se distribuye en secciones, subsecciones y tablas. Ca
 
 ## Editor de imágenes
 
-El gestor de contenidos dispone de un gestor de imágenes mediante el que podemos realizar varias acciones, como ampliar, reducir o recortar las imágenes.
+El gestor de contenidos dispone de un editor de imágenes mediante el que podemos realizar varias acciones, como ampliar, reducir o recortar las imágenes.
 
 ![screenshot2](https://user-images.githubusercontent.com/5312427/47272327-5861bd80-d584-11e8-9a15-f69b80403c45.png)
 
 ## Editor de vídeos
 
-lalala
+La aplicación también dispone de un editor de vídeos, desde el que podemos cargar vídeos y tomar capturas.
+
+![screenshot3](https://user-images.githubusercontent.com/5312427/47272395-4e8c8a00-d585-11e8-9e3e-11c7d528e4d6.png)
+
+
