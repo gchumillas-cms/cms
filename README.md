@@ -10,3 +10,12 @@ El contenido del sitio web se distribuye en secciones, subsecciones y tablas. Ca
 
 ![screenshot1](https://user-images.githubusercontent.com/5312427/47272291-028d1580-d584-11e8-8842-131791c0d420.png)
 
+## Editor de imágenes
+
+El gestor de contenidos dispone de un gestor de imágenes mediante el que podemos realizar varias acciones, como ampliar, reducir o recortar las imágenes.
+
+![screenshot2](https://user-images.githubusercontent.com/5312427/47272327-5861bd80-d584-11e8-9a15-f69b80403c45.png)
+
+## Editor de vídeos
+
+lalala
