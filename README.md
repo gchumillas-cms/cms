@@ -22,7 +22,7 @@ La aplicación también dispone de un editor de vídeos, desde el que podemos ca
 
 ![screenshot3](https://user-images.githubusercontent.com/5312427/47272395-4e8c8a00-d585-11e8-9e3e-11c7d528e4d6.png)
 
-## Y muchas opciones más
+## Tipos de campos
 
 La aplicación soporta gran variedad de tipos de campos, como fechas, archivos, imágenes, campos encriptados, etc.
 
