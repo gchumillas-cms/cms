@@ -4,7 +4,7 @@ This application allows us to manage the contents of **ANY** website, not matter
 
 The application was mainly developed in **PHP, MySQL and jQuery** and it has multiple configuration options.
 
-## Sections, Subsections and tables
+## Sections, Subsections and Tables
 
 The website contents are distributed in sections, subsections and tables. And each section or subsection may contain one or more tables, from which we can insert, edit, delete, filter and sort records.
 
