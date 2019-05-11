@@ -6,7 +6,7 @@ The application was mainly developed in **PHP, MySQL and jQuery** and it has mul
 
 ## Sections, Subsections and Tables
 
-The website contents are distributed in sections, subsections and tables. And each section or subsection may contain one or more tables, from which we can insert, edit, delete, filter and sort records.
+The website contents are distributed in sections, subsections and finally tables. And each section or subsection may contain one or more tables, from which we can insert, edit, delete, filter and sort records.
 
 ![screenshot1](https://user-images.githubusercontent.com/5312427/47272291-028d1580-d584-11e8-8842-131791c0d420.png)
 
