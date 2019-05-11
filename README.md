@@ -18,7 +18,7 @@ The application has an integrated image editor from which we can perform various
 
 ## Integrated video editor
 
-The application also has an integrated video editor, from which we can upload videos and take screenshots. The videos are optionally converted to different formats. For example, you can upload an MP4 video and then create an OGG and AVI video. That way we ensure that the video can be played on different devices.
+The application has also an integrated video editor, from which we can upload videos and take screenshots. The videos are optionally converted to different formats. For example, you can upload an MP4 video and then create an OGG and AVI video. That way we ensure that the video can be played on different devices.
 
 ![screenshot3](https://user-images.githubusercontent.com/5312427/47272395-4e8c8a00-d585-11e8-9e3e-11c7d528e4d6.png)
 
