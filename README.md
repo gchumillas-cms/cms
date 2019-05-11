@@ -2,7 +2,7 @@
 
 This application allows us to manage the contents of **ANY** website, not matter how it was built. That's because, unlike other CMS, this application doesn't manage the "website contents", but the "database contents". That is, you can build your website by using your favorite framework or library and then you can install this application to manage its contents.
 
-The application was mainly developed in **PHP, MySQL and jQuery** and it has multiple configuration options.
+The application was mainly developed in **PHP**, **MySQL** and **jQuery** and it has multiple configuration options.
 
 ## Sections, Subsections and Tables
 
